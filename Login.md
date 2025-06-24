@@ -11,7 +11,10 @@ A fully functional login authentication system built with **Next.js App Router**
 First, install all the necessary packages:
 
 ```bash
-npm install react-hook-form zod @hookform/resolvers js-cookie lucide-react sonner
+npm install js-cookie lucide-react sonner
+
+```bash
+npm install 
 ```
 
 > If using Tailwind CSS and Next.js 13+/14 (App Router), make sure your project is already set up with Tailwind and app directory.
