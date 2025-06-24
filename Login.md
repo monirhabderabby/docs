@@ -1,8 +1,8 @@
 
 
----
+# 🔐 Login Authentication System - Next.js
 
-## 🧑‍💻 Developer Setup Guide: Copy-Paste Friendly
+A fully functional login authentication system built with **Next.js App Router**, **React Hook Form**, **Zod**, and **JS-Cookie**. This README guides  developers through setup, structure, and usage.
 
 ---
 
