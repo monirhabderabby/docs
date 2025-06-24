@@ -15,7 +15,7 @@ npm install js-cookie lucide-react sonner
 ```
 
 ```bash
-npm install
+npx shadcn@latest add form input label 
 ```
 
 > If using Tailwind CSS and Next.js 13+/14 (App Router), make sure your project is already set up with Tailwind and app directory.
